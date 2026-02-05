@@ -147,8 +147,7 @@ risk_parity_portfolio/
 │   ├── 01_data_exploration.ipynb
 │   ├── 02_volatility_estimation.ipynb
 │   ├── 03_risk_parity_optimization.ipynb
-│   ├── 04_portfolio_backtest.ipynb
-│   └── 05_crisis_analysis.ipynb
+│   └── 04_crisis_analysis.ipynb
 │
 ├── src/
 │   ├── data_loader.py
